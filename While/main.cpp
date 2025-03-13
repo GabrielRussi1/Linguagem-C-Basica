@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main()
+{
+    int numero;
+    numero = 0;
+
+    // Menor
+    // Aqui preciso informar o incremento
+    // para não entrar no loop
+    while (numero <10)
+    {
+        printf("%d ", numero);
+        numero++;
+        }
+
+    }
